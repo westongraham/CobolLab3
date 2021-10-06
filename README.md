@@ -1,2 +1,2 @@
-# COBOL-Lab3
+# CobolLab3
 COBOL Lab3
